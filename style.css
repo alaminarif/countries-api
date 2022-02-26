@@ -1,0 +1,11 @@
+.parent {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.country {
+  border: 2px solid tomato;
+  background-color: antiquewhite;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+}
